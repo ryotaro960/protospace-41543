@@ -1,0 +1,9 @@
+Internal Database URL
+
+postgresql://protospace_41543_user:3XwewXlbfVLrE5IGMNTrZO4WiWDvhsUP@dpg-crp776u8ii6s73cd2v2g-a/protospace_41543
+
+
+
+External Database URL
+
+postgresql://protospace_41543_user:3XwewXlbfVLrE5IGMNTrZO4WiWDvhsUP@dpg-crp776u8ii6s73cd2v2g-a.ohio-postgres.render.com/protospace_41543
